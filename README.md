@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="arclogo" src="https://cloud.githubusercontent.com/assets/3068563/23199029/55e9d55a-f8aa-11e6-91a2-74b82db3813c.png"><br><br>
+
   <a href="https://github.com/nolawi/biztravel/releases/latest"><img src="https://github-release-version.herokuapp.com/github/nolawi/biztravel/release.svg?style=flat-square" alt="Latest release" /></a>
   <a href="https://travis-ci.org/nolawi/biztravel"><img src="https://img.shields.io/travis/nolawi/biztravel/redux.svg?style=flat-square" alt="Build Status" /></a>
   <a href="https://codecov.io/gh/nolawi/biztravel/branch/redux"><img src="https://img.shields.io/codecov/c/github/nolawi/biztravel/redux.svg?style=flat-square" alt="Coverage Status" /></a>
