@@ -58,18 +58,20 @@ we can move things aroun you realize what it is, just move the component folder 
 
 
 
-
-
 ```sh
-$ npm run dev
+npm run storybook:biztravel
 ```
 
- will start the development server with [HMR](https://webpack.github.io/docs/hot-module-replacement) on top of it.
+you can open http://localhost:9001 on browser and navigate through components to see their possible states. 
+
+### 5. run the localhost
+
+ `npm run dev:appname` will start the development server with [hot reload module](https://webpack.github.io/docs/hot-module-replacement) on top of it. also have another tool for devs chrome extention... i think
 
 > [http://localhost:3000](http://localhost:3000) — development <br>
 > [http://localhost:3001](http://localhost:3001) — webpack assets <br>
 
-open [http://localhost:3000](http://localhost:3000) in browser and start developing.
+
 
 ## Heading
 
