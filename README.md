@@ -15,10 +15,9 @@
 
 - ### [`master`](https://github.com/nolawi/biztravel)
 
-  The basic stack with [React](https://facebook.github.io/react/), [Webpack](https://github.com/webpack/webpack), [react-router](https://github.com/ReactTraining/react-router) and [Jest](https://facebook.github.io/jest/).
+  The basic stack with [React](https://facebook.github.io/react/), [Webpack](https://github.com/webpack/webpack), [react-router](https://github.com/ReactTraining/react-router) and [Jest](https://facebook.github.io/jest/). Add more documentation
 
-  - ### [`redux`](https://github.com/reactjs/redux) 
-       [redux](https://github.com/reactjs/redux), [redux-saga](https://github.com/yelouafi/redux-saga) to do redux search as well
+
 
       
 
@@ -53,6 +52,7 @@ $ npm run dev:biztravel
 
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3068563/21237760/6b941f76-c2e7-11e6-92e3-bbb7c82b3622.gif"></p>
 
+#### for our designer
 this is based on [atomic design princlples](http://bradfrost.com/blog/post/atomic-web-design/)
 we can move things aroun you realize what it is, just move the component folder to the right place. Everything else should work. The template controls the components UI. One place to maintain. Based on storybook Docu TBD
 
